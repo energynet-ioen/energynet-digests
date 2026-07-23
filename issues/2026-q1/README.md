@@ -2,8 +2,10 @@
 
 **Official title:** Дайджест событий НТИ «Энерджинет» — I квартал 2026 года
 
-**Coverage:** 2026-01-01 to 2026-03-31  
-**Publication language:** Russian (`ru`)  
+**Coverage:** 2026-01-01 to 2026-03-31
+
+**Publication language:** Russian (`ru`)
+
 **Format:** PDF
 
 [Open the official PDF](https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_I_%D0%BA%D0%B22026_%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2FhUfKfgL8kGGSH3OOOwAJOFlPSDv9fy%2FxgAMv5cf0%2F8RSlALj4K2Zwv%2FKcXSBPIijq%2FJ6bpmRyOJonT3VoXnDag%3D%3D)

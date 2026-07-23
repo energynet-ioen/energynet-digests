@@ -2,8 +2,10 @@
 
 **Official title:** Дайджест событий НТИ «Энерджинет» — II квартал 2025 года
 
-**Coverage:** 2025-04-01 to 2025-06-30  
-**Publication language:** Russian (`ru`)  
+**Coverage:** 2025-04-01 to 2025-06-30
+
+**Publication language:** Russian (`ru`)
+
 **Format:** PDF
 
 [Open the official PDF](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdt2PN%2FF3jaX52g1MQ5FWEm29t8DY1pj4XF5a%2Fe6u42mQQeDx581nKESGHJLfIrCEq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20II%2025.07.pdf&nosw=1)
