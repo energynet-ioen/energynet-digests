@@ -4,11 +4,16 @@
   <img src="assets/energynet-logo-en-light.png" alt="EnergyNet" width="680">
 </picture>
 
-# EnergyNet Digest
+# EnergyNet Digest Collection
 
-Quarterly highlights from the NTI EnergyNet community
+Quarterly publications on the events, projects, research, and ideas shaping intelligent and distributed energy systems
 
-**[Read the latest issue — Q1 2026][digest-2026-q1]**
+### Latest issue
+
+**[Q1 2026 — NTI EnergyNet Events Digest](issues/2026-q1/README.md)**<br>
+January–March 2026 · Russian edition · [Open the official PDF][digest-2026-q1]
+
+**Archive formats:** [Issue catalog](issues.json) · [BibTeX](archive.bib) · [RIS](archive.ris) · [Series metadata](metadata.json) · [Research package](ro-crate-metadata.json) · [Citation](CITATION.cff) · [Rights](RIGHTS.md)
 
 [English](#english) · [Русский](#русский) · [简体中文](#简体中文)
 
@@ -20,16 +25,16 @@ The current issues are published in Russian.
 
 ### 2026
 
-- [Q1 2026][digest-2026-q1]
+- [Q1 2026](issues/2026-q1/README.md) · [Official PDF][digest-2026-q1]
 
 ### 2025
 
-- [Q4 2025][digest-2025-q4]
-- [Q3 2025][digest-2025-q3]
-- [Q2 2025][digest-2025-q2]
-- [Q1 2025][digest-2025-q1]
+- [Q4 2025](issues/2025-q4/README.md) · [Official PDF][digest-2025-q4]
+- [Q3 2025](issues/2025-q3/README.md) · [Official PDF][digest-2025-q3]
+- [Q2 2025](issues/2025-q2/README.md) · [Official PDF][digest-2025-q2]
+- [Q1 2025](issues/2025-q1/README.md) · [Official PDF][digest-2025-q1]
 
-[Explore the EnergyNet analytical library](https://energynet.ru/library) · [Official website](https://ioen.ru)
+[Explore the EnergyNet analytical library](https://energynet.ru/library) · [Official website](https://energynet.ru/)
 
 ## Русский
 
@@ -37,16 +42,16 @@ The current issues are published in Russian.
 
 ### 2026
 
-- [I квартал 2026 года][digest-2026-q1]
+- [I квартал 2026 года](issues/2026-q1/README.md) · [Официальный PDF][digest-2026-q1]
 
 ### 2025
 
-- [IV квартал 2025 года][digest-2025-q4]
-- [III квартал 2025 года][digest-2025-q3]
-- [II квартал 2025 года][digest-2025-q2]
-- [I квартал 2025 года][digest-2025-q1]
+- [IV квартал 2025 года](issues/2025-q4/README.md) · [Официальный PDF][digest-2025-q4]
+- [III квартал 2025 года](issues/2025-q3/README.md) · [Официальный PDF][digest-2025-q3]
+- [II квартал 2025 года](issues/2025-q2/README.md) · [Официальный PDF][digest-2025-q2]
+- [I квартал 2025 года](issues/2025-q1/README.md) · [Официальный PDF][digest-2025-q1]
 
-[Все материалы аналитической библиотеки EnergyNet](https://energynet.ru/library) · [Официальный сайт](https://ioen.ru)
+[Все материалы аналитической библиотеки EnergyNet](https://energynet.ru/library) · [Официальный сайт](https://energynet.ru/)
 
 ## 简体中文
 
@@ -56,16 +61,16 @@ The current issues are published in Russian.
 
 ### 2026
 
-- [2026 年第 1 季度][digest-2026-q1]
+- [2026 年第 1 季度](issues/2026-q1/README.md) · [官方 PDF][digest-2026-q1]
 
 ### 2025
 
-- [2025 年第 4 季度][digest-2025-q4]
-- [2025 年第 3 季度][digest-2025-q3]
-- [2025 年第 2 季度][digest-2025-q2]
-- [2025 年第 1 季度][digest-2025-q1]
+- [2025 年第 4 季度](issues/2025-q4/README.md) · [官方 PDF][digest-2025-q4]
+- [2025 年第 3 季度](issues/2025-q3/README.md) · [官方 PDF][digest-2025-q3]
+- [2025 年第 2 季度](issues/2025-q2/README.md) · [官方 PDF][digest-2025-q2]
+- [2025 年第 1 季度](issues/2025-q1/README.md) · [官方 PDF][digest-2025-q1]
 
-[浏览 EnergyNet 分析资料库](https://energynet.ru/library) · [官方网站](https://ioen.ru)
+[浏览 EnergyNet 分析资料库](https://energynet.ru/library) · [官方网站](https://energynet.ru/)
 
 [digest-2026-q1]: https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_I_%D0%BA%D0%B22026_%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2FhUfKfgL8kGGSH3OOOwAJOFlPSDv9fy%2FxgAMv5cf0%2F8RSlALj4K2Zwv%2FKcXSBPIijq%2FJ6bpmRyOJonT3VoXnDag%3D%3D
 [digest-2025-q4]: https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+IV.pdf&nosw=1&url=ya-disk-public%3A%2F%2FuNzehphK0A9fBF274ZoXY%2F0DVqJm8sJI2Z3%2Fsf8009Yz5pQga4e7swCpgYb5leOMq%2FJ6bpmRyOJonT3VoXnDag%3D%3D

@@ -1,0 +1,179 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/energynet-ioen/energynet-digests/main/schemas/issues.schema.json",
+  "title": "EnergyNet Digest issue catalog",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "series_id",
+    "name",
+    "publisher",
+    "source_catalog_url",
+    "last_reviewed",
+    "issues"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "series_id": {
+      "type": "string",
+      "format": "uri"
+    },
+    "name": {
+      "$ref": "#/$defs/multilingualText"
+    },
+    "publisher": {
+      "type": "object",
+      "required": [
+        "name",
+        "url"
+      ]
+    },
+    "source_catalog_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "last_reviewed": {
+      "type": "string",
+      "format": "date"
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/issue"
+      }
+    }
+  },
+  "$defs": {
+    "multilingualText": {
+      "type": "object",
+      "required": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "properties": {
+        "en": {
+          "type": "string"
+        },
+        "ru": {
+          "type": "string"
+        },
+        "zh-Hans": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "rights": {
+      "type": "object",
+      "required": [
+        "status",
+        "statement"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "not-declared",
+            "licensed"
+          ]
+        },
+        "statement": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "additionalProperties": false
+    },
+    "issue": {
+      "type": "object",
+      "required": [
+        "id",
+        "slug",
+        "publication_year",
+        "quarter",
+        "temporal_coverage",
+        "title",
+        "description",
+        "language",
+        "format",
+        "official_pdf_url",
+        "landing_page_url",
+        "topics",
+        "content_availability",
+        "rights"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "publication_year": {
+          "type": "integer"
+        },
+        "quarter": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 4
+        },
+        "temporal_coverage": {
+          "type": "string"
+        },
+        "title": {
+          "$ref": "#/$defs/multilingualText"
+        },
+        "description": {
+          "$ref": "#/$defs/multilingualText"
+        },
+        "language": {
+          "type": "string"
+        },
+        "metadata_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "format": {
+          "const": "application/pdf"
+        },
+        "official_pdf_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "landing_page_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source_catalog_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "topics": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          }
+        },
+        "content_availability": {
+          "enum": [
+            "official-pdf-external",
+            "repository-markdown"
+          ]
+        },
+        "rights": {
+          "$ref": "#/$defs/rights"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}
