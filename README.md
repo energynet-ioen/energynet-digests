@@ -4,13 +4,16 @@
   <img src="assets/energynet-logo-en-light.png" alt="EnergyNet" width="680">
 </picture>
 
-# EnergyNet Digest
+# EnergyNet Digest Collection
 
-Quarterly highlights from the NTI EnergyNet community
+Quarterly publications on the events, projects, research, and ideas shaping intelligent and distributed energy systems
 
-**[Explore the latest issue — Q1 2026](issues/2026-q1/README.md)** · [Official PDF][digest-2026-q1]
+### Latest issue
 
-**Structured access:** [Issue catalog](issues.json) · [JSON Schema](schemas/issues.schema.json) · [Series metadata](metadata.json) · [Citation](CITATION.cff) · [Rights](RIGHTS.md)
+**[Q1 2026 — NTI EnergyNet Events Digest](issues/2026-q1/README.md)**<br>
+January–March 2026 · Russian edition · [Open the official PDF][digest-2026-q1]
+
+**Archive formats:** [Issue catalog](issues.json) · [BibTeX](archive.bib) · [RIS](archive.ris) · [Series metadata](metadata.json) · [Research package](ro-crate-metadata.json) · [Citation](CITATION.cff) · [Rights](RIGHTS.md)
 
 [English](#english) · [Русский](#русский) · [简体中文](#简体中文)
 

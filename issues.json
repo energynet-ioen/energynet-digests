@@ -1,6 +1,6 @@
 {
   "$schema": "schemas/issues.schema.json",
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "series_id": "https://github.com/energynet-ioen/energynet-digests",
   "name": {
     "en": "EnergyNet Digest",
@@ -26,9 +26,9 @@
         "zh-Hans": "NTI EnergyNet 事件简报 — 2026 年第 1 季度"
       },
       "description": {
-        "en": "A structured record for the EnergyNet quarterly digest covering Q1 2026.",
-        "ru": "Структурированная запись квартального дайджеста EnergyNet за I квартал 2026 года.",
-        "zh-Hans": "EnergyNet 2026 年第 1 季度简报的结构化记录。"
+        "en": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q1 2026 in the development of intelligent and distributed energy systems.",
+        "ru": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 1-й квартал 2026 года в области интеллектуальной и распределённой энергетики.",
+        "zh-Hans": "EnergyNet 2026 年第 1 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。"
       },
       "language": "ru",
       "metadata_languages": [
@@ -64,9 +64,9 @@
         "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 4 季度"
       },
       "description": {
-        "en": "A structured record for the EnergyNet quarterly digest covering Q4 2025.",
-        "ru": "Структурированная запись квартального дайджеста EnergyNet за IV квартал 2025 года.",
-        "zh-Hans": "EnergyNet 2025 年第 4 季度简报的结构化记录。"
+        "en": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q4 2025 in the development of intelligent and distributed energy systems.",
+        "ru": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 4-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+        "zh-Hans": "EnergyNet 2025 年第 4 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。"
       },
       "language": "ru",
       "metadata_languages": [
@@ -102,9 +102,9 @@
         "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 3 季度"
       },
       "description": {
-        "en": "A structured record for the EnergyNet quarterly digest covering Q3 2025.",
-        "ru": "Структурированная запись квартального дайджеста EnergyNet за III квартал 2025 года.",
-        "zh-Hans": "EnergyNet 2025 年第 3 季度简报的结构化记录。"
+        "en": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q3 2025 in the development of intelligent and distributed energy systems.",
+        "ru": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 3-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+        "zh-Hans": "EnergyNet 2025 年第 3 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。"
       },
       "language": "ru",
       "metadata_languages": [
@@ -140,9 +140,9 @@
         "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 2 季度"
       },
       "description": {
-        "en": "A structured record for the EnergyNet quarterly digest covering Q2 2025.",
-        "ru": "Структурированная запись квартального дайджеста EnergyNet за II квартал 2025 года.",
-        "zh-Hans": "EnergyNet 2025 年第 2 季度简报的结构化记录。"
+        "en": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q2 2025 in the development of intelligent and distributed energy systems.",
+        "ru": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 2-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+        "zh-Hans": "EnergyNet 2025 年第 2 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。"
       },
       "language": "ru",
       "metadata_languages": [
@@ -178,9 +178,9 @@
         "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 1 季度"
       },
       "description": {
-        "en": "A structured record for the EnergyNet quarterly digest covering Q1 2025.",
-        "ru": "Структурированная запись квартального дайджеста EnergyNet за I квартал 2025 года.",
-        "zh-Hans": "EnergyNet 2025 年第 1 季度简报的结构化记录。"
+        "en": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q1 2025 in the development of intelligent and distributed energy systems.",
+        "ru": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 1-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+        "zh-Hans": "EnergyNet 2025 年第 1 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。"
       },
       "language": "ru",
       "metadata_languages": [

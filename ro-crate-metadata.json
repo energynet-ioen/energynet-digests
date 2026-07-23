@@ -1,0 +1,310 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.3/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.3"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "EnergyNet Digest Collection, 2025–2026",
+      "description": "Quarterly EnergyNet publications with stable issue pages, official source links, multilingual descriptions, citation exports, and rights statements.",
+      "dateModified": "2026-07-23",
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "usageInfo": {
+        "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md"
+      },
+      "hasPart": [
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "issues.json"
+        },
+        {
+          "@id": "metadata.json"
+        },
+        {
+          "@id": "archive.bib"
+        },
+        {
+          "@id": "archive.ris"
+        },
+        {
+          "@id": "CITATION.cff"
+        },
+        {
+          "@id": "RIGHTS.md"
+        },
+        {
+          "@id": "schemas/issues.schema.json"
+        },
+        {
+          "@id": "issues/2026-q1/README.md"
+        },
+        {
+          "@id": "issues/2025-q4/README.md"
+        },
+        {
+          "@id": "issues/2025-q3/README.md"
+        },
+        {
+          "@id": "issues/2025-q2/README.md"
+        },
+        {
+          "@id": "issues/2025-q1/README.md"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q1/README.md"
+        },
+        {
+          "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q4/README.md"
+        },
+        {
+          "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q3/README.md"
+        },
+        {
+          "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q2/README.md"
+        },
+        {
+          "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q1/README.md"
+        }
+      ]
+    },
+    {
+      "@id": "https://energynet.ru/",
+      "@type": "Organization",
+      "name": "EnergyNet",
+      "url": "https://energynet.ru/"
+    },
+    {
+      "@id": "README.md",
+      "@type": "File",
+      "name": "EnergyNet Digest Collection",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "issues.json",
+      "@type": "File",
+      "name": "Digest issue catalog",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "metadata.json",
+      "@type": "File",
+      "name": "Schema.org series metadata",
+      "encodingFormat": "application/ld+json"
+    },
+    {
+      "@id": "archive.bib",
+      "@type": "File",
+      "name": "BibTeX citation records",
+      "encodingFormat": "application/x-bibtex"
+    },
+    {
+      "@id": "archive.ris",
+      "@type": "File",
+      "name": "RIS citation records",
+      "encodingFormat": "application/x-research-info-systems"
+    },
+    {
+      "@id": "CITATION.cff",
+      "@type": "File",
+      "name": "Citation File Format metadata",
+      "encodingFormat": "text/yaml"
+    },
+    {
+      "@id": "RIGHTS.md",
+      "@type": "File",
+      "name": "Rights and reuse statement",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "schemas/issues.schema.json",
+      "@type": "File",
+      "name": "Digest archive JSON Schema",
+      "encodingFormat": "application/schema+json"
+    },
+    {
+      "@id": "issues/2026-q1/README.md",
+      "@type": "File",
+      "name": "Digest issue page: 2026-q1",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "issues/2025-q4/README.md",
+      "@type": "File",
+      "name": "Digest issue page: 2025-q4",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "issues/2025-q3/README.md",
+      "@type": "File",
+      "name": "Digest issue page: 2025-q3",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "issues/2025-q2/README.md",
+      "@type": "File",
+      "name": "Digest issue page: 2025-q2",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "issues/2025-q1/README.md",
+      "@type": "File",
+      "name": "Digest issue page: 2025-q1",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q1/README.md",
+      "@type": "Report",
+      "name": "NTI EnergyNet Events Digest — Q1 2026",
+      "alternateName": "Дайджест событий НТИ «Энерджинет» — I квартал 2026 года",
+      "identifier": "energynet:digest:2026:q1",
+      "datePublished": "2026",
+      "temporalCoverage": "2026-01-01/2026-03-31",
+      "inLanguage": "ru",
+      "keywords": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "encoding": {
+        "@id": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_I_%D0%BA%D0%B22026_%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2FhUfKfgL8kGGSH3OOOwAJOFlPSDv9fy%2FxgAMv5cf0%2F8RSlALj4K2Zwv%2FKcXSBPIijq%2FJ6bpmRyOJonT3VoXnDag%3D%3D"
+      }
+    },
+    {
+      "@id": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_I_%D0%BA%D0%B22026_%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2FhUfKfgL8kGGSH3OOOwAJOFlPSDv9fy%2FxgAMv5cf0%2F8RSlALj4K2Zwv%2FKcXSBPIijq%2FJ6bpmRyOJonT3VoXnDag%3D%3D",
+      "@type": "File",
+      "name": "Дайджест событий НТИ «Энерджинет» — I квартал 2026 года — official PDF",
+      "encodingFormat": "application/pdf"
+    },
+    {
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q4/README.md",
+      "@type": "Report",
+      "name": "NTI EnergyNet Events Digest — Q4 2025",
+      "alternateName": "Дайджест событий НТИ «Энерджинет» — IV квартал 2025 года",
+      "identifier": "energynet:digest:2025:q4",
+      "datePublished": "2025",
+      "temporalCoverage": "2025-10-01/2025-12-31",
+      "inLanguage": "ru",
+      "keywords": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "encoding": {
+        "@id": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+IV.pdf&nosw=1&url=ya-disk-public%3A%2F%2FuNzehphK0A9fBF274ZoXY%2F0DVqJm8sJI2Z3%2Fsf8009Yz5pQga4e7swCpgYb5leOMq%2FJ6bpmRyOJonT3VoXnDag%3D%3D"
+      }
+    },
+    {
+      "@id": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+IV.pdf&nosw=1&url=ya-disk-public%3A%2F%2FuNzehphK0A9fBF274ZoXY%2F0DVqJm8sJI2Z3%2Fsf8009Yz5pQga4e7swCpgYb5leOMq%2FJ6bpmRyOJonT3VoXnDag%3D%3D",
+      "@type": "File",
+      "name": "Дайджест событий НТИ «Энерджинет» — IV квартал 2025 года — official PDF",
+      "encodingFormat": "application/pdf"
+    },
+    {
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q3/README.md",
+      "@type": "Report",
+      "name": "NTI EnergyNet Events Digest — Q3 2025",
+      "alternateName": "Дайджест событий НТИ «Энерджинет» — III квартал 2025 года",
+      "identifier": "energynet:digest:2025:q3",
+      "datePublished": "2025",
+      "temporalCoverage": "2025-07-01/2025-09-30",
+      "inLanguage": "ru",
+      "keywords": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "encoding": {
+        "@id": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+III+%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2Fgmq5XKWBdzAugP0W2EmJQXJqBpC1eUhhT9MnfRcZYB7mYFGmNdxZ6P1yb%2Fb6Xdqkq%2FJ6bpmRyOJonT3VoXnDag%3D%3D"
+      }
+    },
+    {
+      "@id": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+III+%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2Fgmq5XKWBdzAugP0W2EmJQXJqBpC1eUhhT9MnfRcZYB7mYFGmNdxZ6P1yb%2Fb6Xdqkq%2FJ6bpmRyOJonT3VoXnDag%3D%3D",
+      "@type": "File",
+      "name": "Дайджест событий НТИ «Энерджинет» — III квартал 2025 года — official PDF",
+      "encodingFormat": "application/pdf"
+    },
+    {
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q2/README.md",
+      "@type": "Report",
+      "name": "NTI EnergyNet Events Digest — Q2 2025",
+      "alternateName": "Дайджест событий НТИ «Энерджинет» — II квартал 2025 года",
+      "identifier": "energynet:digest:2025:q2",
+      "datePublished": "2025",
+      "temporalCoverage": "2025-04-01/2025-06-30",
+      "inLanguage": "ru",
+      "keywords": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "encoding": {
+        "@id": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdt2PN%2FF3jaX52g1MQ5FWEm29t8DY1pj4XF5a%2Fe6u42mQQeDx581nKESGHJLfIrCEq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20II%2025.07.pdf&nosw=1"
+      }
+    },
+    {
+      "@id": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdt2PN%2FF3jaX52g1MQ5FWEm29t8DY1pj4XF5a%2Fe6u42mQQeDx581nKESGHJLfIrCEq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20II%2025.07.pdf&nosw=1",
+      "@type": "File",
+      "name": "Дайджест событий НТИ «Энерджинет» — II квартал 2025 года — official PDF",
+      "encodingFormat": "application/pdf"
+    },
+    {
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q1/README.md",
+      "@type": "Report",
+      "name": "NTI EnergyNet Events Digest — Q1 2025",
+      "alternateName": "Дайджест событий НТИ «Энерджинет» — I квартал 2025 года",
+      "identifier": "energynet:digest:2025:q1",
+      "datePublished": "2025",
+      "temporalCoverage": "2025-01-01/2025-03-31",
+      "inLanguage": "ru",
+      "keywords": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "encoding": {
+        "@id": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FFtPRNlY%2F3xhHjlPitojr35a3yHc3BRB8pY%2BE8DdkrbhFFH0vsgr9dzsbuAeXdhp0q%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%2010.04.pdf&nosw=1"
+      }
+    },
+    {
+      "@id": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FFtPRNlY%2F3xhHjlPitojr35a3yHc3BRB8pY%2BE8DdkrbhFFH0vsgr9dzsbuAeXdhp0q%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%2010.04.pdf&nosw=1",
+      "@type": "File",
+      "name": "Дайджест событий НТИ «Энерджинет» — I квартал 2025 года — official PDF",
+      "encodingFormat": "application/pdf"
+    }
+  ]
+}

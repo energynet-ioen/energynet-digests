@@ -4,15 +4,15 @@
   "@id": "https://github.com/energynet-ioen/energynet-digests",
   "name": [
     {
-      "@value": "EnergyNet Digest",
+      "@value": "EnergyNet Digest Collection",
       "@language": "en"
     },
     {
-      "@value": "Дайджест EnergyNet",
+      "@value": "Коллекция дайджестов EnergyNet",
       "@language": "ru"
     },
     {
-      "@value": "EnergyNet 简报",
+      "@value": "EnergyNet 简报资料集",
       "@language": "zh-Hans"
     }
   ],
@@ -68,7 +68,21 @@
         "encodingFormat": "application/pdf",
         "contentUrl": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_I_%D0%BA%D0%B22026_%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2FhUfKfgL8kGGSH3OOOwAJOFlPSDv9fy%2FxgAMv5cf0%2F8RSlALj4K2Zwv%2FKcXSBPIijq%2FJ6bpmRyOJonT3VoXnDag%3D%3D"
       },
-      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md"
+      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md",
+      "description": [
+        {
+          "@value": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q1 2026 in the development of intelligent and distributed energy systems.",
+          "@language": "en"
+        },
+        {
+          "@value": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 1-й квартал 2026 года в области интеллектуальной и распределённой энергетики.",
+          "@language": "ru"
+        },
+        {
+          "@value": "EnergyNet 2026 年第 1 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。",
+          "@language": "zh-Hans"
+        }
+      ]
     },
     {
       "@type": "Report",
@@ -95,7 +109,21 @@
         "encodingFormat": "application/pdf",
         "contentUrl": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+IV.pdf&nosw=1&url=ya-disk-public%3A%2F%2FuNzehphK0A9fBF274ZoXY%2F0DVqJm8sJI2Z3%2Fsf8009Yz5pQga4e7swCpgYb5leOMq%2FJ6bpmRyOJonT3VoXnDag%3D%3D"
       },
-      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md"
+      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md",
+      "description": [
+        {
+          "@value": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q4 2025 in the development of intelligent and distributed energy systems.",
+          "@language": "en"
+        },
+        {
+          "@value": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 4-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+          "@language": "ru"
+        },
+        {
+          "@value": "EnergyNet 2025 年第 4 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。",
+          "@language": "zh-Hans"
+        }
+      ]
     },
     {
       "@type": "Report",
@@ -122,7 +150,21 @@
         "encodingFormat": "application/pdf",
         "contentUrl": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+III+%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2Fgmq5XKWBdzAugP0W2EmJQXJqBpC1eUhhT9MnfRcZYB7mYFGmNdxZ6P1yb%2Fb6Xdqkq%2FJ6bpmRyOJonT3VoXnDag%3D%3D"
       },
-      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md"
+      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md",
+      "description": [
+        {
+          "@value": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q3 2025 in the development of intelligent and distributed energy systems.",
+          "@language": "en"
+        },
+        {
+          "@value": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 3-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+          "@language": "ru"
+        },
+        {
+          "@value": "EnergyNet 2025 年第 3 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。",
+          "@language": "zh-Hans"
+        }
+      ]
     },
     {
       "@type": "Report",
@@ -149,7 +191,21 @@
         "encodingFormat": "application/pdf",
         "contentUrl": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdt2PN%2FF3jaX52g1MQ5FWEm29t8DY1pj4XF5a%2Fe6u42mQQeDx581nKESGHJLfIrCEq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20II%2025.07.pdf&nosw=1"
       },
-      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md"
+      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md",
+      "description": [
+        {
+          "@value": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q2 2025 in the development of intelligent and distributed energy systems.",
+          "@language": "en"
+        },
+        {
+          "@value": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 2-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+          "@language": "ru"
+        },
+        {
+          "@value": "EnergyNet 2025 年第 2 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。",
+          "@language": "zh-Hans"
+        }
+      ]
     },
     {
       "@type": "Report",
@@ -176,7 +232,21 @@
         "encodingFormat": "application/pdf",
         "contentUrl": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FFtPRNlY%2F3xhHjlPitojr35a3yHc3BRB8pY%2BE8DdkrbhFFH0vsgr9dzsbuAeXdhp0q%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%2010.04.pdf&nosw=1"
       },
-      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md"
+      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md",
+      "description": [
+        {
+          "@value": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q1 2025 in the development of intelligent and distributed energy systems.",
+          "@language": "en"
+        },
+        {
+          "@value": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за 1-й квартал 2025 года в области интеллектуальной и распределённой энергетики.",
+          "@language": "ru"
+        },
+        {
+          "@value": "EnergyNet 2025 年第 1 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。",
+          "@language": "zh-Hans"
+        }
+      ]
     }
   ]
 }
