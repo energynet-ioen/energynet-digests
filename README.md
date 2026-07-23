@@ -31,7 +31,7 @@ The current issues are published in Russian.
 - [Q2 2025](issues/2025-q2/README.md) · [Official PDF][digest-2025-q2]
 - [Q1 2025](issues/2025-q1/README.md) · [Official PDF][digest-2025-q1]
 
-[Explore the EnergyNet analytical library](https://energynet.ru/library) · [Official website](https://ioen.ru)
+[Explore the EnergyNet analytical library](https://energynet.ru/library) · [Official website](https://energynet.ru/)
 
 ## Русский
 
@@ -48,7 +48,7 @@ The current issues are published in Russian.
 - [II квартал 2025 года](issues/2025-q2/README.md) · [Официальный PDF][digest-2025-q2]
 - [I квартал 2025 года](issues/2025-q1/README.md) · [Официальный PDF][digest-2025-q1]
 
-[Все материалы аналитической библиотеки EnergyNet](https://energynet.ru/library) · [Официальный сайт](https://ioen.ru)
+[Все материалы аналитической библиотеки EnergyNet](https://energynet.ru/library) · [Официальный сайт](https://energynet.ru/)
 
 ## 简体中文
 
@@ -67,7 +67,7 @@ The current issues are published in Russian.
 - [2025 年第 2 季度](issues/2025-q2/README.md) · [官方 PDF][digest-2025-q2]
 - [2025 年第 1 季度](issues/2025-q1/README.md) · [官方 PDF][digest-2025-q1]
 
-[浏览 EnergyNet 分析资料库](https://energynet.ru/library) · [官方网站](https://ioen.ru)
+[浏览 EnergyNet 分析资料库](https://energynet.ru/library) · [官方网站](https://energynet.ru/)
 
 [digest-2026-q1]: https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_I_%D0%BA%D0%B22026_%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2FhUfKfgL8kGGSH3OOOwAJOFlPSDv9fy%2FxgAMv5cf0%2F8RSlALj4K2Zwv%2FKcXSBPIijq%2FJ6bpmRyOJonT3VoXnDag%3D%3D
 [digest-2025-q4]: https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+IV.pdf&nosw=1&url=ya-disk-public%3A%2F%2FuNzehphK0A9fBF274ZoXY%2F0DVqJm8sJI2Z3%2Fsf8009Yz5pQga4e7swCpgYb5leOMq%2FJ6bpmRyOJonT3VoXnDag%3D%3D
