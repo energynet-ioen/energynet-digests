@@ -1,0 +1,208 @@
+{
+  "$schema": "schemas/issues.schema.json",
+  "schema_version": "1.0.0",
+  "series_id": "https://github.com/energynet-ioen/energynet-digests",
+  "name": {
+    "en": "EnergyNet Digest",
+    "ru": "Дайджест EnergyNet",
+    "zh-Hans": "EnergyNet 简报"
+  },
+  "publisher": {
+    "name": "EnergyNet",
+    "url": "https://ioen.ru"
+  },
+  "source_catalog_url": "https://energynet.ru/library",
+  "last_reviewed": "2026-07-23",
+  "issues": [
+    {
+      "id": "energynet:digest:2026:q1",
+      "slug": "2026-q1",
+      "publication_year": 2026,
+      "quarter": 1,
+      "temporal_coverage": "2026-01-01/2026-03-31",
+      "title": {
+        "en": "NTI EnergyNet Events Digest — Q1 2026",
+        "ru": "Дайджест событий НТИ «Энерджинет» — I квартал 2026 года",
+        "zh-Hans": "NTI EnergyNet 事件简报 — 2026 年第 1 季度"
+      },
+      "description": {
+        "en": "A structured record for the EnergyNet quarterly digest covering Q1 2026.",
+        "ru": "Структурированная запись квартального дайджеста EnergyNet за I квартал 2026 года.",
+        "zh-Hans": "EnergyNet 2026 年第 1 季度简报的结构化记录。"
+      },
+      "language": "ru",
+      "metadata_languages": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "format": "application/pdf",
+      "official_pdf_url": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_I_%D0%BA%D0%B22026_%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2FhUfKfgL8kGGSH3OOOwAJOFlPSDv9fy%2FxgAMv5cf0%2F8RSlALj4K2Zwv%2FKcXSBPIijq%2FJ6bpmRyOJonT3VoXnDag%3D%3D",
+      "landing_page_url": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q1/README.md",
+      "source_catalog_url": "https://energynet.ru/library",
+      "topics": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "content_availability": "official-pdf-external",
+      "rights": {
+        "status": "not-declared",
+        "statement": "No repository-wide license has been declared for this issue. Consult the official PDF and RIGHTS.md before reuse."
+      }
+    },
+    {
+      "id": "energynet:digest:2025:q4",
+      "slug": "2025-q4",
+      "publication_year": 2025,
+      "quarter": 4,
+      "temporal_coverage": "2025-10-01/2025-12-31",
+      "title": {
+        "en": "NTI EnergyNet Events Digest — Q4 2025",
+        "ru": "Дайджест событий НТИ «Энерджинет» — IV квартал 2025 года",
+        "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 4 季度"
+      },
+      "description": {
+        "en": "A structured record for the EnergyNet quarterly digest covering Q4 2025.",
+        "ru": "Структурированная запись квартального дайджеста EnergyNet за IV квартал 2025 года.",
+        "zh-Hans": "EnergyNet 2025 年第 4 季度简报的结构化记录。"
+      },
+      "language": "ru",
+      "metadata_languages": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "format": "application/pdf",
+      "official_pdf_url": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+IV.pdf&nosw=1&url=ya-disk-public%3A%2F%2FuNzehphK0A9fBF274ZoXY%2F0DVqJm8sJI2Z3%2Fsf8009Yz5pQga4e7swCpgYb5leOMq%2FJ6bpmRyOJonT3VoXnDag%3D%3D",
+      "landing_page_url": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q4/README.md",
+      "source_catalog_url": "https://energynet.ru/library",
+      "topics": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "content_availability": "official-pdf-external",
+      "rights": {
+        "status": "not-declared",
+        "statement": "No repository-wide license has been declared for this issue. Consult the official PDF and RIGHTS.md before reuse."
+      }
+    },
+    {
+      "id": "energynet:digest:2025:q3",
+      "slug": "2025-q3",
+      "publication_year": 2025,
+      "quarter": 3,
+      "temporal_coverage": "2025-07-01/2025-09-30",
+      "title": {
+        "en": "NTI EnergyNet Events Digest — Q3 2025",
+        "ru": "Дайджест событий НТИ «Энерджинет» — III квартал 2025 года",
+        "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 3 季度"
+      },
+      "description": {
+        "en": "A structured record for the EnergyNet quarterly digest covering Q3 2025.",
+        "ru": "Структурированная запись квартального дайджеста EnergyNet за III квартал 2025 года.",
+        "zh-Hans": "EnergyNet 2025 年第 3 季度简报的结构化记录。"
+      },
+      "language": "ru",
+      "metadata_languages": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "format": "application/pdf",
+      "official_pdf_url": "https://docs.yandex.ru/docs/view?name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+III+%D0%B8%D1%82%D0%BE%D0%B3.pdf&nosw=1&url=ya-disk-public%3A%2F%2Fgmq5XKWBdzAugP0W2EmJQXJqBpC1eUhhT9MnfRcZYB7mYFGmNdxZ6P1yb%2Fb6Xdqkq%2FJ6bpmRyOJonT3VoXnDag%3D%3D",
+      "landing_page_url": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q3/README.md",
+      "source_catalog_url": "https://energynet.ru/library",
+      "topics": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "content_availability": "official-pdf-external",
+      "rights": {
+        "status": "not-declared",
+        "statement": "No repository-wide license has been declared for this issue. Consult the official PDF and RIGHTS.md before reuse."
+      }
+    },
+    {
+      "id": "energynet:digest:2025:q2",
+      "slug": "2025-q2",
+      "publication_year": 2025,
+      "quarter": 2,
+      "temporal_coverage": "2025-04-01/2025-06-30",
+      "title": {
+        "en": "NTI EnergyNet Events Digest — Q2 2025",
+        "ru": "Дайджест событий НТИ «Энерджинет» — II квартал 2025 года",
+        "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 2 季度"
+      },
+      "description": {
+        "en": "A structured record for the EnergyNet quarterly digest covering Q2 2025.",
+        "ru": "Структурированная запись квартального дайджеста EnergyNet за II квартал 2025 года.",
+        "zh-Hans": "EnergyNet 2025 年第 2 季度简报的结构化记录。"
+      },
+      "language": "ru",
+      "metadata_languages": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "format": "application/pdf",
+      "official_pdf_url": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdt2PN%2FF3jaX52g1MQ5FWEm29t8DY1pj4XF5a%2Fe6u42mQQeDx581nKESGHJLfIrCEq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%20II%2025.07.pdf&nosw=1",
+      "landing_page_url": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q2/README.md",
+      "source_catalog_url": "https://energynet.ru/library",
+      "topics": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "content_availability": "official-pdf-external",
+      "rights": {
+        "status": "not-declared",
+        "statement": "No repository-wide license has been declared for this issue. Consult the official PDF and RIGHTS.md before reuse."
+      }
+    },
+    {
+      "id": "energynet:digest:2025:q1",
+      "slug": "2025-q1",
+      "publication_year": 2025,
+      "quarter": 1,
+      "temporal_coverage": "2025-01-01/2025-03-31",
+      "title": {
+        "en": "NTI EnergyNet Events Digest — Q1 2025",
+        "ru": "Дайджест событий НТИ «Энерджинет» — I квартал 2025 года",
+        "zh-Hans": "NTI EnergyNet 事件简报 — 2025 年第 1 季度"
+      },
+      "description": {
+        "en": "A structured record for the EnergyNet quarterly digest covering Q1 2025.",
+        "ru": "Структурированная запись квартального дайджеста EnergyNet за I квартал 2025 года.",
+        "zh-Hans": "EnergyNet 2025 年第 1 季度简报的结构化记录。"
+      },
+      "language": "ru",
+      "metadata_languages": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "format": "application/pdf",
+      "official_pdf_url": "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FFtPRNlY%2F3xhHjlPitojr35a3yHc3BRB8pY%2BE8DdkrbhFFH0vsgr9dzsbuAeXdhp0q%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%2010.04.pdf&nosw=1",
+      "landing_page_url": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2025-q1/README.md",
+      "source_catalog_url": "https://energynet.ru/library",
+      "topics": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "content_availability": "official-pdf-external",
+      "rights": {
+        "status": "not-declared",
+        "statement": "No repository-wide license has been declared for this issue. Consult the official PDF and RIGHTS.md before reuse."
+      }
+    }
+  ]
+}
