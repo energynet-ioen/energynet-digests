@@ -55,6 +55,12 @@
           "@id": "issues/2026-q3/energynet-digest-2026-q3.pdf"
         },
         {
+          "@id": "issues/2026-q2/README.md"
+        },
+        {
+          "@id": "issues/2026-q2/energynet-digest-2026-q2.pdf"
+        },
+        {
           "@id": "issues/2026-q1/README.md"
         },
         {
@@ -73,6 +79,9 @@
       "mentions": [
         {
           "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q3/README.md"
+        },
+        {
+          "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q2/README.md"
         },
         {
           "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q1/README.md"
@@ -154,7 +163,7 @@
     {
       "@id": "issues/2026-q3/energynet-digest-2026-q3.pdf",
       "@type": "File",
-      "name": "Дайджест событий НТИ «Энерджинет»: III квартал 2026 года",
+      "name": "Дайджест событий НТИ «Энерджинет» — III квартал 2026 года",
       "encodingFormat": "application/pdf",
       "contentSize": "3243647",
       "sha256": "3d1c316e9894626f140483857d5f58fdfa52f02ee8451a89146ad6d5217cb067",
@@ -163,8 +172,8 @@
     {
       "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q3/README.md",
       "@type": "Report",
-      "name": "NTI EnergyNet Events Digest - Q3 2026",
-      "alternateName": "Дайджест событий НТИ «Энерджинет»: III квартал 2026 года",
+      "name": "NTI EnergyNet Events Digest — Q3 2026",
+      "alternateName": "Дайджест событий НТИ «Энерджинет» — III квартал 2026 года",
       "identifier": "energynet:digest:2026:q3",
       "datePublished": "2026",
       "temporalCoverage": "2026-07-01/2026-09-30",
@@ -180,6 +189,43 @@
       },
       "encoding": {
         "@id": "issues/2026-q3/energynet-digest-2026-q3.pdf"
+      }
+    },
+    {
+      "@id": "issues/2026-q2/README.md",
+      "@type": "File",
+      "name": "Digest issue page: 2026-q2",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "issues/2026-q2/energynet-digest-2026-q2.pdf",
+      "@type": "File",
+      "name": "Дайджест событий НТИ «Энерджинет» — II квартал 2026 года",
+      "encodingFormat": "application/pdf",
+      "contentSize": "4916687",
+      "sha256": "d18696ca9d1df18d9d39280482466542e576fc463ded5f267e6ab34fc8e687dc",
+      "url": "https://raw.githubusercontent.com/energynet-ioen/energynet-digests/main/issues/2026-q2/energynet-digest-2026-q2.pdf"
+    },
+    {
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q2/README.md",
+      "@type": "Report",
+      "name": "NTI EnergyNet Events Digest — Q2 2026",
+      "alternateName": "Дайджест событий НТИ «Энерджинет» — II квартал 2026 года",
+      "identifier": "energynet:digest:2026:q2",
+      "datePublished": "2026",
+      "temporalCoverage": "2026-04-01/2026-06-30",
+      "inLanguage": "ru",
+      "keywords": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "encoding": {
+        "@id": "issues/2026-q2/energynet-digest-2026-q2.pdf"
       }
     },
     {

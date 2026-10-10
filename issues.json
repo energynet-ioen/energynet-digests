@@ -21,9 +21,9 @@
       "quarter": 3,
       "temporal_coverage": "2026-07-01/2026-09-30",
       "title": {
-        "en": "NTI EnergyNet Events Digest - Q3 2026",
-        "ru": "Дайджест событий НТИ «Энерджинет»: III квартал 2026 года",
-        "zh-Hans": "NTI EnergyNet 事件简报 - 2026 年第 3 季度"
+        "en": "NTI EnergyNet Events Digest — Q3 2026",
+        "ru": "Дайджест событий НТИ «Энерджинет» — III квартал 2026 года",
+        "zh-Hans": "NTI EnergyNet 事件简报 — 2026 年第 3 季度"
       },
       "description": {
         "en": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q3 2026 in the development of intelligent and distributed energy systems.",
@@ -39,6 +39,44 @@
       "format": "application/pdf",
       "official_pdf_url": "https://raw.githubusercontent.com/energynet-ioen/energynet-digests/main/issues/2026-q3/energynet-digest-2026-q3.pdf",
       "landing_page_url": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q3/README.md",
+      "source_catalog_url": "https://energynet.ru/library",
+      "topics": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "content_availability": "repository-pdf",
+      "rights": {
+        "status": "not-declared",
+        "statement": "No repository-wide license has been declared for this issue. Consult the official PDF and RIGHTS.md before reuse."
+      }
+    },
+    {
+      "id": "energynet:digest:2026:q2",
+      "slug": "2026-q2",
+      "publication_year": 2026,
+      "quarter": 2,
+      "temporal_coverage": "2026-04-01/2026-06-30",
+      "title": {
+        "en": "NTI EnergyNet Events Digest — Q2 2026",
+        "ru": "Дайджест событий НТИ «Энерджинет» — II квартал 2026 года",
+        "zh-Hans": "NTI EnergyNet 事件简报 — 2026 年第 2 季度"
+      },
+      "description": {
+        "en": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q2 2026 in the development of intelligent and distributed energy systems.",
+        "ru": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за II квартал 2026 года в области интеллектуальной и распределённой энергетики.",
+        "zh-Hans": "EnergyNet 2026 年第 2 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。"
+      },
+      "language": "ru",
+      "metadata_languages": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "format": "application/pdf",
+      "official_pdf_url": "https://raw.githubusercontent.com/energynet-ioen/energynet-digests/main/issues/2026-q2/energynet-digest-2026-q2.pdf",
+      "landing_page_url": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q2/README.md",
       "source_catalog_url": "https://energynet.ru/library",
       "topics": [
         "EnergyNet",
