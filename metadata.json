@@ -45,6 +45,48 @@
   "hasPart": [
     {
       "@type": "Report",
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q3/README.md",
+      "name": [
+        {
+          "@value": "NTI EnergyNet Events Digest - Q3 2026",
+          "@language": "en"
+        },
+        {
+          "@value": "Дайджест событий НТИ «Энерджинет»: III квартал 2026 года",
+          "@language": "ru"
+        },
+        {
+          "@value": "NTI EnergyNet 事件简报 - 2026 年第 3 季度",
+          "@language": "zh-Hans"
+        }
+      ],
+      "datePublished": "2026",
+      "temporalCoverage": "2026-07-01/2026-09-30",
+      "inLanguage": "ru",
+      "encoding": {
+        "@type": "MediaObject",
+        "encodingFormat": "application/pdf",
+        "contentUrl": "https://raw.githubusercontent.com/energynet-ioen/energynet-digests/main/issues/2026-q3/energynet-digest-2026-q3.pdf",
+        "contentSize": "3243647 bytes"
+      },
+      "usageInfo": "https://github.com/energynet-ioen/energynet-digests/blob/main/RIGHTS.md",
+      "description": [
+        {
+          "@value": "Quarterly EnergyNet publication covering events, projects, research, and ideas from Q3 2026 in the development of intelligent and distributed energy systems.",
+          "@language": "en"
+        },
+        {
+          "@value": "Квартальный выпуск EnergyNet о событиях, проектах, исследованиях и идеях за III квартал 2026 года в области интеллектуальной и распределённой энергетики.",
+          "@language": "ru"
+        },
+        {
+          "@value": "EnergyNet 2026 年第 3 季度出版物，介绍智能化和分布式能源系统领域的活动、项目、研究与理念。",
+          "@language": "zh-Hans"
+        }
+      ]
+    },
+    {
+      "@type": "Report",
       "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q1/README.md",
       "name": [
         {

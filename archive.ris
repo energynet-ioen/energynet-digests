@@ -1,4 +1,19 @@
 TY  - RPRT
+ID  - energynet:digest:2026:q3
+T1  - Дайджест событий НТИ «Энерджинет»: III квартал 2026 года
+PY  - 2026
+PB  - EnergyNet
+LA  - ru
+UR  - https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q3/README.md
+N2  - Quarterly EnergyNet publication covering events, projects, research, and ideas from Q3 2026 in the development of intelligent and distributed energy systems.
+KW  - EnergyNet
+KW  - quarterly digest
+KW  - energy innovation
+KW  - distributed energy
+N1  - PDF: https://raw.githubusercontent.com/energynet-ioen/energynet-digests/main/issues/2026-q3/energynet-digest-2026-q3.pdf
+ER  -
+
+TY  - RPRT
 ID  - energynet:digest:2026:q1
 T1  - Дайджест событий НТИ «Энерджинет» — I квартал 2026 года
 PY  - 2026
