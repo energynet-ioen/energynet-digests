@@ -16,7 +16,7 @@
       "@type": "Dataset",
       "name": "EnergyNet Digest Collection, 2025–2026",
       "description": "Quarterly EnergyNet publications with stable issue pages, official source links, multilingual descriptions, citation exports, and rights statements.",
-      "dateModified": "2026-07-23",
+      "dateModified": "2026-10-10",
       "publisher": {
         "@id": "https://energynet.ru/"
       },
@@ -49,6 +49,12 @@
           "@id": "schemas/issues.schema.json"
         },
         {
+          "@id": "issues/2026-q3/README.md"
+        },
+        {
+          "@id": "issues/2026-q3/energynet-digest-2026-q3.pdf"
+        },
+        {
           "@id": "issues/2026-q1/README.md"
         },
         {
@@ -65,6 +71,9 @@
         }
       ],
       "mentions": [
+        {
+          "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q3/README.md"
+        },
         {
           "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q1/README.md"
         },
@@ -135,6 +144,43 @@
       "@type": "File",
       "name": "Digest archive JSON Schema",
       "encodingFormat": "application/schema+json"
+    },
+    {
+      "@id": "issues/2026-q3/README.md",
+      "@type": "File",
+      "name": "Digest issue page: 2026-q3",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "issues/2026-q3/energynet-digest-2026-q3.pdf",
+      "@type": "File",
+      "name": "Дайджест событий НТИ «Энерджинет»: III квартал 2026 года",
+      "encodingFormat": "application/pdf",
+      "contentSize": "3243647",
+      "sha256": "3d1c316e9894626f140483857d5f58fdfa52f02ee8451a89146ad6d5217cb067",
+      "url": "https://raw.githubusercontent.com/energynet-ioen/energynet-digests/main/issues/2026-q3/energynet-digest-2026-q3.pdf"
+    },
+    {
+      "@id": "https://github.com/energynet-ioen/energynet-digests/blob/main/issues/2026-q3/README.md",
+      "@type": "Report",
+      "name": "NTI EnergyNet Events Digest - Q3 2026",
+      "alternateName": "Дайджест событий НТИ «Энерджинет»: III квартал 2026 года",
+      "identifier": "energynet:digest:2026:q3",
+      "datePublished": "2026",
+      "temporalCoverage": "2026-07-01/2026-09-30",
+      "inLanguage": "ru",
+      "keywords": [
+        "EnergyNet",
+        "quarterly digest",
+        "energy innovation",
+        "distributed energy"
+      ],
+      "publisher": {
+        "@id": "https://energynet.ru/"
+      },
+      "encoding": {
+        "@id": "issues/2026-q3/energynet-digest-2026-q3.pdf"
+      }
     },
     {
       "@id": "issues/2026-q1/README.md",

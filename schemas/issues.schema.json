@@ -166,6 +166,7 @@
         "content_availability": {
           "enum": [
             "official-pdf-external",
+            "repository-pdf",
             "repository-markdown"
           ]
         },
